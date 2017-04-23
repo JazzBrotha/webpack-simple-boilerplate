@@ -1,7 +1,7 @@
 # Webpack Simple Boilerplate
 This boilerplate sets up a development environment in `node.js`, `es6`, and `sass` as well as produces a browser-ready application.
 
-If you experience any issues, please [report[(https://github.com/JazzBrotha/webpack-simple-boilerplate/issues/new).
+If you experience any issues, please [report](https://github.com/JazzBrotha/webpack-simple-boilerplate/issues/new).
 
 ## Instructions
 
